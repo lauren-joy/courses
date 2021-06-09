@@ -1,0 +1,30 @@
+.wrapper {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+
+.wrapper2 {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    text-align:center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+}
+
+.button_green {
+    margin-left:365px;
+}
+
+label {
+    float: left;
+    width: 100px;
+}
+
+
+
